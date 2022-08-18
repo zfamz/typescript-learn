@@ -1,0 +1,10 @@
+{
+  "extends": "../../config/tsconfig.config.json",
+  "compilerOptions": {
+    "target": "ES2020",
+    "rootDir": "src",
+    "outDir": "dist",
+    "strictNullChecks": false
+  },
+  "include": ["src"]
+}
