@@ -18,3 +18,5 @@ function assertIsNumber(val: any): asserts val is number {
 
 assertIsNumber(name)
 name.toFixed()
+
+export {}
